@@ -1,0 +1,33 @@
+.header {
+    text-align: center;
+}
+.logDiv {
+    text-align: center;
+}
+.PhoneDiv {
+    height: 50%;
+    width: 40%;
+    margin-left: 30%;
+}
+.cnicDiv {
+    margin-top: 20px;
+    width: 40%;
+    margin-left: 30%;
+}
+.codeButton {
+    margin-top: 20px;
+}
+.alreadyCode {
+    margin-top: 50px;
+    /* margin-right: 60%; */
+}
+.proceed {
+    margin-top: -40px;
+    margin-left: 50%;
+}
+.phoneLabel {
+    margin-right: 78%;
+}
+.cnicLabel {
+    margin-right: 83%;
+}

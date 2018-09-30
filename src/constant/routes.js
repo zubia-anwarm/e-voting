@@ -1,2 +1,4 @@
 export const Login = '/';
-export const HOME = '/Home';
+export const CODE = '/Code';
+export const VOTECAST = '/vote';
+export const CASTED = '/casted';
