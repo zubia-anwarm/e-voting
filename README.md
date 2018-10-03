@@ -5,8 +5,9 @@ The Team Members are:
 ## Kamil Amin,
 ## Jawwad Ansari,
 ## Zubia Anwar,
-## Tahir Talib and
-## Abdul Moiz.
+## Tahir Talib
+and
+## Abdul Moiz
 
 
 
