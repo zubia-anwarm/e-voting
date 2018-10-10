@@ -1,3 +1,17 @@
+## An Electronic-Voting System to prevent the problem of votes' rigging in Pakistan, using blockchain technology.
+Brainstormed, Developed and Presented by the team, BlockHacks, in a hackathon, held at National Incubation Center, NED University, Karachi.
+
+Team Members are:
+## Kamil Amin,
+## Jawwad Ansari,
+## Zubia Anwar,
+## Tahir Talib
+and
+## Abdul Moiz
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
