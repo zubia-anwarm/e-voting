@@ -1,7 +1,7 @@
-## An Electronic-Voting system to prevent the problem of rigging of votes in Pakistan, using blockchain.
-Strategized, Solved, Developed and Presented by our team in a Blockchain Hackathon, held at National Incubation Center, NED University, Karachi, Pakistan.
+## An Electronic-Voting System to prevent the problem of votes' rigging in Pakistan, using blockchain technology.
+Brainstormed, Developed and Presented by the team, BlockHacks, in a hackathon, held at National Incubation Center, NED University, Karachi.
 
-The Team Members are:
+Team Members are:
 ## Kamil Amin,
 ## Jawwad Ansari,
 ## Zubia Anwar,
