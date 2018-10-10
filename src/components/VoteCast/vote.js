@@ -3,6 +3,10 @@ import './style.css';
 
 class Vote extends Component {
 
+    cast = v => {
+
+    }
+
     render() {
         return (
             <div>
